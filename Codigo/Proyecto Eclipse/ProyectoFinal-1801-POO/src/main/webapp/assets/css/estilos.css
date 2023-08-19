@@ -1,0 +1,67 @@
+/**
+* @author eeforesu@unah.hn
+* @version 0.1.0
+*/
+
+#totalDocumentos {
+    background-color: #e74c3c;
+}
+
+#cantidadTipoDocumentos {
+	background-color: #58d68d;
+}
+
+
+.nav-link {
+	color: black !important;
+}
+
+#docLibro {
+    background-color: #d2b4de; 
+    border-radius: 5px; 
+    margin-left:15px; 
+    margin-right: 15px; 
+    font-size: 20px;
+}
+
+#docRevista {
+    background-color:  #f6ddcc ; 
+    border-radius: 5px; 
+    margin-left:15px; 
+    margin-right: 15px; 
+    font-size: 20px;
+}
+
+#docFotografia {
+    background-color: #d1f2eb; 
+    border-radius: 5px; 
+    margin-left:15px; 
+    margin-right: 15px; 
+    font-size: 20px;
+}
+
+#docPapers {
+    background-color: #f9e79f; 
+    border-radius: 5px; 
+    margin-left:15px; 
+    margin-right: 15px; 
+    font-size: 20px;
+}
+
+#docTotalIngresados{
+    background-color:  #85c1e9 ; 
+    border-radius: 5px; 
+    margin-left:15px; 
+    margin-right: 15px; 
+    font-size: 20px;
+}
+
+#docTotalExtraidos{
+    background-color: #e6b0aa; 
+    border-radius: 5px; 
+    margin-left:15px; 
+    margin-right: 15px; 
+    font-size: 20px;
+}
+
+
